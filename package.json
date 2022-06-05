@@ -1,0 +1,12 @@
+{
+  "name": "mailutil",
+  "version": "0.1.0",
+  "description": "NodeJS mail utilities",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eldoy/mailutil"
+  },
+  "author": "Vidar Eldøy <vidar@eldoy.com>",
+  "license": "MIT"
+}
